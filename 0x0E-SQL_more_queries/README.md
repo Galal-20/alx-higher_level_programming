@@ -84,4 +84,4 @@ What you should learn from this project:
 ---
 
 ## Author
-* **Yony Brinez** - [arleybri18](https://github.com/arleybri18/)
+* **Galal Ahmed** - [Galal-20](https://github.com/Galal-20/)
